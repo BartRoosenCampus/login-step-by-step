@@ -1,0 +1,25 @@
+.form-container {
+    width: 90%;
+    margin: 5em auto;
+}
+
+.source-title {
+    padding: .5em;
+    font-size: 1.3em;
+    background-color: #ada9a9;
+}
+
+.grid-1-2 {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    column-gap: 1em;
+}
+
+em {
+    font-weight: bold !important;
+    color: orange !important;
+}
+
+pre {
+    line-height: 0.7;
+}
