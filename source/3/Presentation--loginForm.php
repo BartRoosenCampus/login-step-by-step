@@ -2,9 +2,8 @@
 <html lang="en">
 <?php require_once '../__common/head.php'; ?>
 <body>
-<div class="container">
-    <a href="../index.php" class="btn btn-warning">Terug naar het overzicht</a>
-    <a href="../sourceController.php?step=2" target="_blank" class="btn btn-warning">Beijk de code</a>
+<a href="../index.php">Overzicht</a>
+<div class="grid-1-2">
     <div>
         <div class="form-container">
             <h1>Login</h1>
@@ -19,7 +18,6 @@
                     <button type="submit" class="btn btn-success">Login</button>
                 </div>
             </form>
-
         </div>
     </div>
 </div>
