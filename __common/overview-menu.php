@@ -11,4 +11,10 @@
     <div>
         <a href="#step-04">Stap 4: Logout</a>
     </div>
+    <div>
+        <h4>Extra</h4>
+    </div>
+    <div>
+        <a href="#step-05">Stap 4: Registreren</a>
+    </div>
 </div>

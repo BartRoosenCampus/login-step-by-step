@@ -4,7 +4,7 @@
 <body>
 <div class="container">
     <a href="../index.php" class="btn btn-warning">Terug naar het overzicht</a>
-    <a href="../sourceController.php?step=4" target="_blank" class="btn btn-warning">Beijk de code</a>
+    <a href="../sourceController.php?step=5" target="_blank" class="btn btn-warning">Beijk de code</a>
     <div>
         <div class="form-container">
             <h1>Login</h1>
@@ -18,8 +18,10 @@
                 <div class="form-group text-right">
                     <button type="submit" class="btn btn-success">Login</button>
                 </div>
+                <div class="form-group text-right">
+                    <a href="registerController.php">Registreren</a>
+                </div>
             </form>
-
         </div>
     </div>
 </div>

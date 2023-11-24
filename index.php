@@ -16,6 +16,7 @@ $title = 'Login overzicht';
     <?php require_once '__common/content/step-02.php'; ?>
     <?php require_once '__common/content/step-03.php'; ?>
     <?php require_once '__common/content/step-04.php'; ?>
+    <?php require_once '__common/content/step-05.php'; ?>
 </div>
 <?php require_once '__common/footer.php'; ?>
 </body>
