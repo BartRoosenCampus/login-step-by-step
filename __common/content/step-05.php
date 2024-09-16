@@ -8,7 +8,7 @@
         <img src="img/step-05-flow.png"/>
     </div>
     <div>
-        <a href="sourceController.php?step=5" target="_blank" class="btn btn-warning">code</a>
+<!--        <a href="sourceController.php?step=5" target="_blank" class="btn btn-warning">code</a>-->
         <a href="step-05/" class="btn btn-warning">project</a>
     </div>
 </div>

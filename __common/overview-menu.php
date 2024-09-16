@@ -15,6 +15,6 @@
         <h4>Extra</h4>
     </div>
     <div>
-        <a href="#step-05">Stap 4: Registreren</a>
+        <a href="#step-05">Stap 5: Registreren</a>
     </div>
 </div>

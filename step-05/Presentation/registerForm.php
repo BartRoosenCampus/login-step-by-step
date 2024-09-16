@@ -4,7 +4,7 @@
 <body>
 <div class="container">
     <a href="../index.php" class="btn btn-warning">Terug naar het overzicht</a>
-    <a href="../sourceController.php?step=5" target="_blank" class="btn btn-warning">Beijk de code</a>
+<!--    <a href="../sourceController.php?step=5" target="_blank" class="btn btn-warning">Beijk de code</a>-->
     <div>
         <div class="form-container">
             <h1>Registreren</h1>

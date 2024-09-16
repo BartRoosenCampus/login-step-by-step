@@ -9,6 +9,6 @@ class UserService
     {
         $dao = new UserDAO();
 
-        return $dao->addUser(User::create($post['gebruikersnaam'], $post['wachtwoord']));
+        return $dao->addUser(User::create($post['userName'], $post['password']));
     }
 }
