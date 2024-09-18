@@ -1,6 +1,6 @@
 <?php
 
-class AbstractDataHandler
+abstract class AbstractDataHandler
 {
     // config om connectie te kunnen maken met de DB
     private const DB_CONNSTRING = "mysql:host=localhost;dbname=cursusphp;charset=utf8";
